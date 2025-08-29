@@ -1,4 +1,4 @@
-# KEKE DMA DETECTOR
+# DMA DETECTOR
 
 > A **Windows-based forensic tool** designed to detect DMA-capable devices, cheat hardware (KMBox, Fuzer), and spoofed devices commonly used in gaming cheating scenarios.
 
